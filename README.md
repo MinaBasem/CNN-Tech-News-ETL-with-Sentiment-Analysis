@@ -89,7 +89,7 @@ def get_response(prompt):
     message = completions.choices[0].text
     return message
 ```
-Summaries are then ran through the function and stored into a list
+Summaries are then ran through the function and stored into a list.
 The model `text-davinci-003` was used for this purpose.
 Note: The API call limit is 3 requests per minute.
 
