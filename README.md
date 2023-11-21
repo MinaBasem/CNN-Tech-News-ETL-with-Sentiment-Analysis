@@ -13,8 +13,10 @@ A pandas dataframe is the final output, containing the following columns:
 - **Company:** Lists the companies mentioned in the corresponding article
 - **Headline:** Raw headline string
 - **Article:** Raw article string
-- **Article Sentiment:** Sentiment of article without modification
-- **Article Sentiment Description:** 
+- **Article Sentiment:** Sentiment score of unmodified article
+- **Article Sentiment Description:** Sentiment grading of unmodified article
+- **Summary Sentiment:** Sentiment score of summaried article
+- **Summary Sentiment Description:** Sentiment grading of summaried article 
 
 ![Screen Shot 2023-11-20 at 4 57 57 PM](https://github.com/MinaBasem/CNN-Tech-News-ETL-with-Sentiment-Analysis/assets/42482261/673af86e-51cd-45b0-b224-bef0e27689bc)
 
@@ -124,5 +126,6 @@ with open("project_log.txt", "a") as f:
 
 - Possibility of adding multiple news sources
 - Possibility of eliminating the use of Selenium and merely extracting the headlines and their corresponding links into a dictionary in the extract phase
+- Airflow or Cron modification to allow for automated running
 
 
