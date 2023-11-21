@@ -1,0 +1,1046 @@
+company,location,industry
+Walmart,"Bentonville, AR",General Merchandisers
+Exxon Mobil,"Irving, TX",Petroleum Refining
+Chevron,"San Ramon, CA",Petroleum Refining
+Berkshire Hathaway,"Omaha, NE",Insurance: Property and Casualty (Stock)
+Apple,"Cupertino, CA","Computers, Office Equipment"
+General Motors,"Detroit, MI",Motor Vehicles and Parts
+Phillips 66,"Houston, TX",Petroleum Refining
+General Electric,"Fairfield, CT",Diversified Financials
+Ford Motor,"Dearborn, MI",Motor Vehicles and Parts
+CVS Health,"Woonsocket, RI",Food and Drug Stores
+McKesson,"San Francisco, CA",Wholesalers: Health Care
+AT&T,"Dallas, TX",Telecommunications
+Valero Energy,"San Antonio, TX",Petroleum Refining
+UnitedHealth Group,"Minnetonka, MN",Health Care: Insurance and Managed Care
+Verizon,"New York, NY",Telecommunications
+AmerisourceBergen,"Chesterbrook, PA",Wholesalers: Health Care
+Fannie Mae,"Washington, DC",Diversified Financials
+Costco,"Issaquah, WA",Specialty Retailers: Other
+HP,"Palo Alto, CA","Computers, Office Equipment"
+Kroger,"Cincinnati, OH",Food and Drug Stores
+JP Morgan,"New York, NY",Commercial Banks
+Bank of America Corp.,"Charlotte, NC",Commercial Banks
+IBM,"Armonk, NY",Information Technology Services
+Marathon Petroleum,"Findlay, OH",Petroleum Refining
+Cardinal,"Dublin, OH",Wholesalers: Health Care
+Boeing,"Chicago, IL",Aerospace and Defense
+Citigroup,"New York, NY",Commercial Banks
+Amazon,"Seattle, WA",Internet Services and Retailing
+Wells Fargo,"San Francisco, CA",Commercial Banks
+Microsoft,"Redmond, WA",Computer Software
+Procter & Gamble | P&G,"Cincinnati, OH",Household and Personal Products
+Home Depot,"Atlanta, GA",Specialty Retailers: Other
+Archer Daniels Midland,"Chicago, IL",Food Production
+Walgreens,"Deerfield, IL",Food and Drug Stores
+Target,"Minneapolis, MN",General Merchandisers
+Johnson & Johnson | J&J,"New Brunswick, NJ",Pharmaceuticals
+Anthem,"Indianapolis, IN",Health Care: Insurance and Managed Care
+MetLife,"New York, NY","Insurance: Life, Health (stock)"
+Google,"Mountain View, CA",Internet Services and Retailing
+State Farm Insurance Cos.,"Bloomington, IL",Insurance: Property and Casualty (Mutual)
+Freddie Mac,"McLean, VA",Diversified Financials
+Comcast,"Philadelphia, PA",Telecommunications
+PepsiCo,"Purchase, NY",Food Consumer Products
+United Technologies,"Hartford, CT",Aerospace and Defense
+AIG,"New York, NY",Insurance: Property and Casualty (Stock)
+UPS,"Atlanta, GA","Mail, Package, and Freight Delivery"
+Dow Chemical,"Midland, MI",Chemicals
+Aetna,"Hartford, CT",Health Care: Insurance and Managed Care
+Lowe's,"Mooresville, NC",Specialty Retailers: Other
+ConocoPhillips,"Houston, TX","Mining, Crude-Oil Production"
+Intel,"Santa Clara, CA",Semiconductors and Other Electronic Components
+Energy Transfer Equity,"Dallas, TX",Pipelines
+Caterpillar,"Peoria, IL",Construction and Farm Machinery
+Prudential Financial,"Newark, NJ","Insurance: Life, Health (stock)"
+Pfizer,"New York, NY",Pharmaceuticals
+Disney,"Burbank, CA",Entertainment
+Humana,"Louisville, KY",Health Care: Insurance and Managed Care
+Enterprise Products Partners,"Houston, TX",Pipelines
+Cisco Systems,"San Jose, CA",Network and Other Communications Equipment
+Sysco,"Houston, TX",Wholesalers: Food and Grocery
+Ingram Micro,"Santa Ana, CA",Wholesalers: Electronics and Office Equipment
+Coca-Cola,"Atlanta, GA",Beverages
+Lockheed Martin,"Bethesda, MD",Aerospace and Defense
+FedEx,"Memphis, TN","Mail, Package, and Freight Delivery"
+Johnson Controls,"Milwaukee, WI",Motor Vehicles and Parts
+Plains GP Holdings,"Houston, TX",Pipelines
+World Fuel Services,"Miami, FL",Wholesalers: Diversified
+CHS,"Inver Grove Heights, MN",Food Production
+American Airlines Group,"Fort Worth, TX",Airlines
+Merck,"Kenilworth, NJ",Pharmaceuticals
+Best Buy,"Richfield, MN",Specialty Retailers: Other
+Delta Air Lines,"Atlanta, GA",Airlines
+Honeywell International,"Morris Township, NJ","Electronics, Electrical Equip."
+HCA Holdings,"Nashville, TN",Health Care: Medical Facilities
+Goldman Sachs Group,"New York, NY",Commercial Banks
+Tesoro,"San Antonio, TX",Petroleum Refining
+Liberty Mutual Insurance Group,"Boston, MA",Insurance: Property and Casualty (Stock)
+United Continental Holdings,"Chicago, IL",Airlines
+New York Life Insurance,"New York, NY","Insurance: Life, Health (Mutual)"
+Oracle,"Redwood City, CA",Computer Software
+Morgan Stanley,"New York, NY",Commercial Banks
+Tyson Foods,"Springdale, AR",Food Production
+Safeway,"Pleasanton, CA",Food and Drug Stores
+Nationwide,"Columbus, OH",Insurance: Property and Casualty (Mutual)
+Deere,"Moline, IL",Construction and Farm Machinery
+DuPont,"Wilmington, DE",Chemicals
+American Express,"New York, NY",Commercial Banks
+Allstate,"Northbrook, IL",Insurance: Property and Casualty (Stock)
+Cigna,"Bloomfield, CT",Health Care: Insurance and Managed Care
+Mondelez International,"Deerfield, IL",Food Consumer Products
+TIAA-CREF,"New York, NY","Insurance: Life, Health (Mutual)"
+INTL FCStone,"New York, NY",Diversified Financials
+Massachusetts Mutual Life Insurance,"Springfield, MA","Insurance: Life, Health (Mutual)"
+DirecTV,"El Segundo, CA",Telecommunications
+Halliburton,"Houston, TX","Oil and Gas Equipment, Services"
+Twenty-First Century Fox,"New York, NY",Entertainment
+3M,"St. Paul, MN",zMiscellaneous
+Sears Holdings,"Hoffman Estates, IL",General Merchandisers
+General Dynamics,"Falls Church, VA",Aerospace and Defense
+Publix Super Markets,"Lakeland, FL",Food and Drug Stores
+Philip Morris International,"New York, NY",Tobacco
+TJX,"Framingham, MA",Specialty Retailers: Apparel
+Time Warner,"New York, NY",Entertainment
+Macy's,"Cincinnati, OH",General Merchandisers
+Nike,"Beaverton, OR",Apparel
+Tech Data,"Clearwater, FL",Wholesalers: Electronics and Office Equipment
+Avnet,"Phoenix, AZ",Wholesalers: Electronics and Office Equipment
+Northwestern Mutual,"Milwaukee, WI","Insurance: Life, Health (Mutual)"
+McDonald's,"Oak Brook, IL",Food Services
+Exelon,"Chicago, IL",Utilities: Gas and Electric
+Travelers Cos.,"New York, NY",Insurance: Property and Casualty (Stock)
+Qualcomm,"San Diego, CA",Network and Other Communications Equipment
+International Paper,"Memphis, TN","Packaging, Containers"
+Occidental Petroleum,"Houston, TX","Mining, Crude-Oil Production"
+Duke Energy,"Charlotte, NC",Utilities: Gas and Electric
+Rite Aid,"Camp Hill, PA",Food and Drug Stores
+Gilead Sciences,"Foster City, CA",Pharmaceuticals
+Baker Hughes,"Houston, TX","Oil and Gas Equipment, Services"
+Emerson Electric,"St. Louis, MO","Electronics, Electrical Equip."
+EMC,"Hopkinton, MA",Computer Peripherals
+USAA,"San Antonio, TX",Insurance: Property and Casualty (Stock)
+Union Pacific,"Omaha, NE",Railroads
+Northrop Grumman,"Falls Church, VA",Aerospace and Defense
+Alcoa,"New York, NY",Metals
+Capital One Financial,"McLean, VA",Commercial Banks
+National Oilwell Varco,"Houston, TX","Oil and Gas Equipment, Services"
+US Foods,"Rosemont, IL",Wholesalers: Food and Grocery
+Raytheon,"Waltham, MA",Aerospace and Defense
+Time Warner Cable,"New York, NY",Telecommunications
+Arrow Electronics,"Centennial, CO",Wholesalers: Electronics and Office Equipment
+Aflac,"Columbus, GA","Insurance: Life, Health (stock)"
+Staples,"Framingham, MA",Specialty Retailers: Other
+Abbott Laboratories,"Abbott Park, IL",Medical Products and Equipment
+Community Health Systems,"Franklin, TN",Health Care: Medical Facilities
+Fluor,"Irving, TX","Engineering, Construction"
+Freeport-McMoRan,"Phoenix, AZ","Mining, Crude-Oil Production"
+U.S. Bancorp,"Minneapolis, MN",Commercial Banks
+Nucor,"Charlotte, NC",Metals
+Kimberly-Clark,"Irving, TX",Household and Personal Products
+Hess,"New York, NY",Petroleum Refining
+Chesapeake Energy,"Oklahoma City, OK","Mining, Crude-Oil Production"
+Xerox,"Norwalk, CT",Information Technology Services
+ManpowerGroup,"Milwaukee, WI",Temporary Help
+Amgen,"Thousand Oaks, CA",Pharmaceuticals
+AbbVie,"North Chicago, IL",Pharmaceuticals
+Danaher,"Washington, DC","Scientific,Photographic and Control Equipment"
+Whirlpool,"Benton Harbor, MI","Electronics, Electrical Equip."
+PBF Energy,"Parsippany, NJ",Petroleum Refining
+HollyFrontier,"Dallas, TX",Petroleum Refining
+Eli Lilly,"Indianapolis, IN",Pharmaceuticals
+Devon Energy,"Oklahoma City, OK","Mining, Crude-Oil Production"
+Progressive,"Mayfield Village, OH",Insurance: Property and Casualty (Stock)
+Cummins,"Columbus, IN",Construction and Farm Machinery
+Icahn Enterprises,"New York, NY",Petroleum Refining
+AutoNation,"Fort Lauderdale, FL","Automotive Retailing, Services"
+Kohl's,"Menomonee Falls, WI",General Merchandisers
+Paccar,"Bellevue, WA",Motor Vehicles and Parts
+Dollar General,"Goodlettsville, TN",General Merchandisers
+Hartford Financial Services Group,"Hartford, CT",Insurance: Property and Casualty (Stock)
+Southwest Airlines,"Dallas, TX",Airlines
+Anadarko Petroleum,"The Woodlands, TX","Mining, Crude-Oil Production"
+Southern,"Atlanta, GA",Utilities: Gas and Electric
+Supervalu,"Eden Prairie, MN",Food and Drug Stores
+Kraft Foods Group,"Northfield, IL",Food Consumer Products
+Goodyear Tire & Rubber,"Akron, OH",Motor Vehicles and Parts
+EOG Resources,"Houston, TX","Mining, Crude-Oil Production"
+CenturyLink,"Monroe, LA",Telecommunications
+Altria Group,"Richmond, VA",Tobacco
+Tenet Healthcare,"Dallas, TX",Health Care: Medical Facilities
+General Mills,"Minneapolis, MN",Food Consumer Products
+eBay,"San Jose, CA",Internet Services and Retailing
+ConAgra Foods,"Omaha, NE",Food Consumer Products
+Lear,"Southfield, MI",Motor Vehicles and Parts
+TRW Automotive Holdings,"Livonia, MI",Motor Vehicles and Parts
+United States Steel,"Pittsburgh, PA",Metals
+Penske Automotive Group,"Bloomfield Hills, MI","Automotive Retailing, Services"
+AES,"Arlington, VA",Utilities: Gas and Electric
+Colgate-Palmolive,"New York, NY",Household and Personal Products
+Global Partners,"Waltham, MA",Wholesalers: Diversified
+Thermo Fisher Scientific,"Waltham, MA","Scientific,Photographic and Control Equipment"
+PG&E Corp.,"San Francisco, CA",Utilities: Gas and Electric
+NextEra Energy,"Juno Beach, FL",Utilities: Gas and Electric
+American Electric Power,"Columbus, OH",Utilities: Gas and Electric
+Baxter International,"Deerfield, IL",Medical Products and Equipment
+Centene,"St. Louis, MO",Health Care: Insurance and Managed Care
+Starbucks,"Seattle, WA",Food Services
+Gap,"San Francisco, CA",Specialty Retailers: Apparel
+Bank of New York Mellon Corp.,"New York, NY",Commercial Banks
+Micron Technology,"Boise, ID",Semiconductors and Other Electronic Components
+Jabil Circuit,"St. Petersburg, FL",Semiconductors and Other Electronic Components
+PNC Financial Services Group,"Pittsburgh, PA",Commercial Banks
+Kinder Morgan,"Houston, TX",Pipelines
+Office Depot,"Boca Raton, FL",Specialty Retailers: Other
+Bristol-Myers Squibb,"New York, NY",Pharmaceuticals
+NRG Energy,"Princeton, NJ",Energy
+Monsanto,"St. Louis, MO",Chemicals
+PPG Industries,"Pittsburgh, PA",Chemicals
+Genuine Parts,"Atlanta, GA",Wholesalers: Diversified
+Omnicom Group,"New York, NY","Advertising, marketing"
+Illinois Tool Works,"Glenview, IL",Industrial Machinery
+Murphy USA,"El Dorado, AR",Specialty Retailers: Other
+Land O'Lakes,"Arden Hills, MN",Food Consumer Products
+Western Refining,"El Paso, TX",Petroleum Refining
+Western Digital,"Irvine, CA",Computer Peripherals
+FirstEnergy,"Akron, OH",Utilities: Gas and Electric
+Aramark,"Philadelphia, PA",Diversified Outsourcing Services
+DISH Network,"Englewood, CO",Telecommunications
+Las Vegas Sands,"Las Vegas, NV","Hotels, Casinos, Resorts"
+Kellogg,"Battle Creek, MI",Food Consumer Products
+Loews,"New York, NY",Insurance: Property and Casualty (Stock)
+CBS,"New York, NY",Entertainment
+Ecolab,"St. Paul, MN",Chemicals
+Whole Foods Market,"Austin, TX",Food and Drug Stores
+Chubb,"Warren, NJ",Insurance: Property and Casualty (Stock)
+Health Net,"Woodland Hills, CA",Health Care: Insurance and Managed Care
+Waste Management,"Houston, TX",Waste Management
+Apache,"Houston, TX","Mining, Crude-Oil Production"
+Textron,"Providence, RI",Aerospace and Defense
+Synnex,"Fremont, CA",Wholesalers: Electronics and Office Equipment
+Marriott International,"Bethesda, MD","Hotels, Casinos, Resorts"
+Viacom,"New York, NY",Entertainment
+Lincoln National,"Radnor, PA","Insurance: Life, Health (stock)"
+Nordstrom,"Seattle, WA",General Merchandisers
+C.H. Robinson Worldwide,"Eden Prairie, MN",Transportation and Logistics
+Edison International,"Rosemead, CA",Utilities: Gas and Electric
+Marathon Oil,"Houston, TX","Mining, Crude-Oil Production"
+Yum Brands,"Louisville, KY",Food Services
+Computer Sciences,"Falls Church, VA",Information Technology Services
+Parker-Hannifin,"Cleveland, OH",Industrial Machinery
+DaVita HealthCare Partners,"Denver, CO",Health Care: Medical Facilities
+CarMax,"Richmond, VA","Automotive Retailing, Services"
+Texas Instruments,"Dallas, TX",Semiconductors and Other Electronic Components
+WellCare Health Plans,"Tampa, FL",Health Care: Insurance and Managed Care
+Marsh & McLennan,"New York, NY",Diversified Financials
+Consolidated Edison,"New York, NY",Utilities: Gas and Electric
+Oneok,"Tulsa, OK",Pipelines
+Visa,"Foster City, CA",Financial Data Services
+Jacobs Engineering Group,"Pasadena, CA","Engineering, Construction"
+CSX,"Jacksonville, FL",Railroads
+Entergy,"New Orleans, LA",Utilities: Gas and Electric
+Facebook | Meta,"Menlo Park, CA",Internet Services and Retailing
+Dominion Resources,"Richmond, VA",Utilities: Gas and Electric
+Leucadia National,"New York, NY",Food Production
+"Toys ""R"" Us","Wayne, NJ",Specialty Retailers: Other
+DTE Energy,"Detroit, MI",Utilities: Gas and Electric
+Ameriprise Financial,"Minneapolis, MN",Diversified Financials
+VF,"Greensboro, NC",Apparel
+Praxair,"Danbury, CT",Chemicals
+J.C. Penney,"Plano, TX",General Merchandisers
+Automatic Data Processing,"Roseland, NJ",Diversified Outsourcing Services
+L-3 Communications,"New York, NY",Aerospace and Defense
+CDW,"Vernon Hills, IL",Information Technology Services
+Guardian Life Ins. Co. of America,"New York, NY","Insurance: Life, Health (Mutual)"
+Xcel Energy,"Minneapolis, MN",Utilities: Gas and Electric
+Norfolk Southern,"Norfolk, VA",Railroads
+PPL,"Allentown, PA",Utilities: Gas and Electric
+R.R. Donnelley & Sons,"Chicago, IL","Publishing, Printing"
+Huntsman,"Salt Lake City, UT",Chemicals
+Bed Bath & Beyond,"Union, NJ",Specialty Retailers: Other
+Stanley Black & Decker,"New Britain, CT","Home Equipment, Furnishings"
+L Brands,"Columbus, OH",Specialty Retailers: Apparel
+Liberty Interactive,"Englewood, CO",Internet Services and Retailing
+Farmers Insurance Exchange,"Woodland Hills, CA",Insurance: Property and Casualty (Mutual)
+First Data,"Atlanta, GA",Financial Data Services
+Sherwin-Williams,"Cleveland, OH",Chemicals
+BlackRock,"New York, NY",Securities
+Voya Financial,"New York, NY","Insurance: Life, Health (stock)"
+Ross Stores,"Dublin, CA",Specialty Retailers: Apparel
+Sempra Energy,"San Diego, CA",Utilities: Gas and Electric
+Estee Lauder,"New York, NY",Household and Personal Products
+H.J. Heinz,"Pittsburgh, PA",Food Consumer Products
+Reinsurance Group of America,"Chesterfield, MO","Insurance: Life, Health (stock)"
+Public Service Enterprise Group,"Newark, NJ",Utilities: Gas and Electric
+Cameron International,"Houston, TX","Oil and Gas Equipment, Services"
+Navistar International,"Lisle, IL",Motor Vehicles and Parts
+CST Brands,"San Antonio, TX",Specialty Retailers: Other
+State Street Corp.,"Boston, MA",Commercial Banks
+Unum Group,"Chattanooga, TN","Insurance: Life, Health (stock)"
+Hilton Worldwide Holdings,"McLean, VA","Hotels, Casinos, Resorts"
+Family Dollar Stores,"Matthews, NC",General Merchandisers
+Principal Financial,"Des Moines, IA","Insurance: Life, Health (stock)"
+Reliance Steel & Aluminum,"Los Angeles, CA",Metals
+Air Products & Chemicals,"Allentown, PA",Chemicals
+Assurant,"New York, NY",Insurance: Property and Casualty (Stock)
+Peter Kiewit Sons',"Omaha, NE","Engineering, Construction"
+Henry Schein,"Melville, NY",Wholesalers: Health Care
+Cognizant Technology Solutions,"Teaneck, NJ",Information Technology Services
+MGM Resorts International,"Las Vegas, NV","Hotels, Casinos, Resorts"
+W.W. Grainger,"Lake Forest, IL",Wholesalers: Diversified
+Group 1 Automotive,"Houston, TX","Automotive Retailing, Services"
+BB&T Corp.,"Winston-Salem, NC",Commercial Banks
+Rock-Tenn,"Norcross, GA","Packaging, Containers"
+Advance Auto Parts,"Roanoke, VA",Specialty Retailers: Other
+Ally Financial,"Detroit, MI",Commercial Banks
+AGCO,"Duluth, GA",Construction and Farm Machinery
+Corning,"Corning, NY",Network and Other Communications Equipment
+Biogen,"Cambridge, MA",Pharmaceuticals
+NGL Energy Partners,"Tulsa, OK",Wholesalers: Diversified
+Stryker,"Kalamazoo, MI",Medical Products and Equipment
+Molina Healthcare,"Long Beach, CA",Health Care: Insurance and Managed Care
+Precision Castparts,"Portland, OR",Aerospace and Defense
+Discover Financial Services,"Riverwoods, IL",Commercial Banks
+Genworth Financial,"Richmond, VA","Insurance: Life, Health (stock)"
+Eastman Chemical,"Kingsport, TN",Chemicals
+Dean Foods,"Dallas, TX",Food Consumer Products
+AutoZone,"Memphis, TN",Specialty Retailers: Other
+MasterCard,"Purchase, NY",Financial Data Services
+Owens & Minor,"Mechanicsville, VA",Wholesalers: Health Care
+Hormel Foods,"Austin, MN",Food Consumer Products
+GameStop,"Grapevine, TX",Specialty Retailers: Other
+Autoliv,"Auburn Hills, MI",Motor Vehicles and Parts
+CenterPoint Energy,"Houston, TX",Utilities: Gas and Electric
+Fidelity National Financial,"Jacksonville, FL",Insurance: Property and Casualty (Stock)
+Sonic Automotive,"Charlotte, NC","Automotive Retailing, Services"
+HD Supply Holdings,"Atlanta, GA",Wholesalers: Diversified
+Charter Communications,"Stamford, CT",Telecommunications
+Crown Holdings,"Philadelphia, PA","Packaging, Containers"
+Applied Materials,"Santa Clara, CA",Semiconductors and Other Electronic Components
+Mosaic,"Plymouth, MN",Chemicals
+CBRE Group,"Los Angeles, CA",Real estate
+Avon Products,"New York, NY",Household and Personal Products
+Republic Services,"Phoenix, AZ",Waste Management
+Universal Health Services,"King of Prussia, PA",Health Care: Medical Facilities
+Darden Restaurants,"Orlando, FL",Food Services
+Steel Dynamics,"Fort Wayne, IN",Metals
+SunTrust Banks,"Atlanta, GA",Commercial Banks
+Caesars Entertainment,"Las Vegas, NV","Hotels, Casinos, Resorts"
+Targa Resources,"Houston, TX",Pipelines
+Dollar Tree,"Chesapeake, VA",Specialty Retailers: Other
+News Corp.,"New York, NY","Publishing, Printing"
+Ball,"Broomfield, CO","Packaging, Containers"
+Thrivent Financial for Lutherans,"Minneapolis, MN","Insurance: Life, Health (Mutual)"
+Masco,"Taylor, MI","Home Equipment, Furnishings"
+Franklin Resources,"San Mateo, CA",Securities
+Avis Budget Group,"Parsippany, NJ","Automotive Retailing, Services"
+Reynolds American,"Winston-Salem, NC",Tobacco
+Becton Dickinson,"Franklin Lakes, NJ",Medical Products and Equipment
+Priceline Group,"Norwalk, CT",Internet Services and Retailing
+Broadcom,"Irvine, CA",Semiconductors and Other Electronic Components
+Tenneco,"Lake Forest, IL",Motor Vehicles and Parts
+Campbell Soup,"Camden, NJ",Food Consumer Products
+AECOM,"Los Angeles, CA","Engineering, Construction"
+Visteon,"Van Buren Township, MI",Motor Vehicles and Parts
+Delek US Holdings,"Brentwood, TN",Petroleum Refining
+Dover,"Downers Grove, IL",Industrial Machinery
+BorgWarner,"Auburn Hills, MI",Motor Vehicles and Parts
+Jarden,"Boca Raton, FL","Home Equipment, Furnishings"
+UGI,"King of Prussia, PA",Energy
+Murphy Oil,"El Dorado, AR","Mining, Crude-Oil Production"
+PVH,"New York, NY",Apparel
+Core-Mark Holding,"South San Francisco, CA",Wholesalers: Food and Grocery
+Calpine,"Houston, TX",Energy
+D.R. Horton,"Fort Worth, TX",Homebuilders
+Weyerhaeuser,"Federal Way, WA",Forest and Paper Products
+KKR,"New York, NY",Securities
+FMC Technologies,"Houston, TX","Oil and Gas Equipment, Services"
+American Family Insurance Group,"Madison, WI",Insurance: Property and Casualty (Stock)
+SpartanNash,"Grand Rapids, MI",Wholesalers: Food and Grocery
+WESCO International,"Pittsburgh, PA",Wholesalers: Diversified
+Quanta Services,"Houston, TX","Engineering, Construction"
+Mohawk Industries,"Calhoun, GA",zMiscellaneous
+Motorola Solutions,"Schaumburg, IL",Network and Other Communications Equipment
+Lennar,"Miami, FL",Homebuilders
+TravelCenters of America,"Westlake, OH",Specialty Retailers: Other
+Sealed Air,"Charlotte, NC","Packaging, Containers"
+Eversource Energy,"Springfield, MA",Utilities: Gas and Electric
+Coca-Cola Enterprises,"Atlanta, GA",Beverages
+Celgene,"Summit, NJ",Pharmaceuticals
+Williams,"Tulsa, OK",Energy
+Ashland,"Covington, KY",Chemicals
+Interpublic Group,"New York, NY","Advertising, marketing"
+Blackstone Group,"New York, NY",Diversified Financials
+Ralph Lauren,"New York, NY",Apparel
+Quest Diagnostics,"Madison, NJ",Health Care: Pharmacy and Other Services
+Hershey,"Hershey, PA",Food Consumer Products
+Terex,"Westport, CT",Construction and Farm Machinery
+Boston Scientific,"Marlborough, MA",Medical Products and Equipment
+Newmont Mining,"Greenwood Village, CO","Mining, Crude-Oil Production"
+Allergan,"Irvine, CA",Pharmaceuticals
+O'Reilly Automotive,"Springfield, MO",Specialty Retailers: Other
+Casey's General Stores,"Ankeny, IA",Specialty Retailers: Other
+CMS Energy,"Jackson, MI",Utilities: Gas and Electric
+Foot Locker,"New York, NY",Specialty Retailers: Apparel
+W.R. Berkley,"Greenwich, CT",Insurance: Property and Casualty (Stock)
+PetSmart,"Phoenix, AZ",Specialty Retailers: Other
+Pacific Life,"Newport Beach, CA","Insurance: Life, Health (stock)"
+Commercial Metals,"Irving, TX",Metals
+Agilent Technologies,"Santa Clara, CA","Scientific,Photographic and Control Equipment"
+Huntington Ingalls Industries,"Newport News, VA",Aerospace and Defense
+Mutual of Omaha Insurance,"Omaha, NE","Insurance: Life, Health (stock)"
+Live Nation Entertainment,"Beverly Hills, CA",Entertainment
+Dick's Sporting Goods,"Coraopolis, PA",Specialty Retailers: Other
+Oshkosh,"Oshkosh, WI",Motor Vehicles and Parts
+Celanese,"Irving, TX",Chemicals
+Spirit AeroSystems Holdings,"Wichita, KS",Aerospace and Defense
+United Natural Foods,"Providence, RI",Wholesalers: Food and Grocery
+Peabody Energy,"St. Louis, MO","Mining, Crude-Oil Production"
+Owens-Illinois,"Perrysburg, OH","Packaging, Containers"
+Dillard's,"Little Rock, AR",General Merchandisers
+Level 3 Communications,"Broomfield, CO",Telecommunications
+Pantry,"Cary, NC",Specialty Retailers: Other
+LKQ,"Chicago, IL",Wholesalers: Diversified
+Integrys Energy Group,"Chicago, IL",Utilities: Gas and Electric
+Symantec,"Mountain View, CA",Computer Software
+Buckeye Partners,"Houston, TX",Pipelines
+Ryder System,"Miami, FL","Trucking, Truck Leasing"
+SanDisk,"Milpitas, CA",Semiconductors and Other Electronic Components
+Rockwell Automation,"Milwaukee, WI","Electronics, Electrical Equip."
+Dana Holding,"Maumee, OH",Motor Vehicles and Parts
+Lansing Trade Group,"Overland Park, KS",Wholesalers: Diversified
+NCR,"Duluth, GA","Computers, Office Equipment"
+Expeditors International of Washington,"Seattle, WA",Transportation and Logistics
+Omnicare,"Cincinnati, OH",Health Care: Pharmacy and Other Services
+AK Steel Holding,"West Chester, OH",Metals
+Fifth Third Bancorp,"Cincinnati, OH",Commercial Banks
+Seaboard,"Shawnee Mission, KS",Food Production
+NiSource,"Merrillville, IN",Utilities: Gas and Electric
+Cablevision Systems,"Bethpage, NY",Telecommunications
+Anixter International,"Glenview, IL",Wholesalers: Diversified
+EMCOR Group,"Norwalk, CT","Engineering, Construction"
+Fidelity National Information Services,"Jacksonville, FL",Financial Data Services
+Barnes & Noble,"New York, NY",Specialty Retailers: Other
+KBR,"Houston, TX","Engineering, Construction"
+Auto-Owners Insurance,"Lansing, MI",Insurance: Property and Casualty (Mutual)
+Jones Financial,"Des Peres, MO",Securities
+Avery Dennison,"Glendale, CA",Chemicals
+NetApp,"Sunnyvale, CA",Computer Peripherals
+iHeartMedia,"San Antonio, TX",Entertainment
+Discovery Communications,"Silver Spring, MD",Entertainment
+Harley-Davidson,"Milwaukee, WI",Transportation Equipment
+Sanmina,"San Jose, CA",Semiconductors and Other Electronic Components
+Trinity Industries,"Dallas, TX",Transportation Equipment
+J.B. Hunt Transport Services,"Lowell, AR","Trucking, Truck Leasing"
+Charles Schwab,"San Francisco, CA",Securities
+Erie Insurance Group,"Erie, PA",Insurance: Property and Casualty (Stock)
+Dr Pepper Snapple Group,"Plano, TX",Beverages
+Ameren,"St. Louis, MO",Utilities: Gas and Electric
+Mattel,"El Segundo, CA","Toys, Sporting Goods"
+Laboratory Corp. of America,"Burlington, NC",Health Care: Pharmacy and Other Services
+Gannett,"McLean, VA","Publishing, Printing"
+Starwood Hotels & Resorts,"Stamford, CT","Hotels, Casinos, Resorts"
+General Cable,"Highland Heights, KY","Electronics, Electrical Equip."
+A-Mark Precious Metals,"Santa Monica, CA",zMiscellaneous
+Graybar Electric,"St. Louis, MO",Wholesalers: Diversified
+Energy Future Holdings,"Dallas, TX",Energy
+HRG Group,"New York, NY",Household and Personal Products
+MRC Global,"Houston, TX","Oil and Gas Equipment, Services"
+Spectra Energy,"Houston, TX",Pipelines
+Asbury Automotive Group,"Duluth, GA","Automotive Retailing, Services"
+Packaging Corp. of America,"Lake Forest, IL","Packaging, Containers"
+Windstream Holdings,"Little Rock, AR",Telecommunications
+PulteGroup,"Atlanta, GA",Homebuilders
+JetBlue Airways,"Long Island City, NY",Airlines
+Newell Rubbermaid,"Atlanta, GA","Home Equipment, Furnishings"
+Con-way,"Ann Arbor, MI",Transportation and Logistics
+Calumet Specialty Products Partners,"Indianapolis, IN",Petroleum Refining
+Expedia,"Bellevue, WA",Internet Services and Retailing
+American Financial Group,"Cincinnati, OH",Insurance: Property and Casualty (Stock)
+Tractor Supply,"Brentwood, TN",Specialty Retailers: Other
+United Rentals,"Stamford, CT",zMiscellaneous
+Ingredion,"Westchester, IL",Food Production
+Navient,"Wilmington, DE",Diversified Financials
+MeadWestvaco,"Richmond, VA","Packaging, Containers"
+AGL Resources,"Atlanta, GA",Utilities: Gas and Electric
+St. Jude Medical,"St. Paul, MN",Medical Products and Equipment
+J.M. Smucker,"Orrville, OH",Food Consumer Products
+Western Union,"Englewood, CO",Financial Data Services
+Clorox,"Oakland, CA",Household and Personal Products
+Domtar,"Fort Mill, SC",Forest and Paper Products
+Kelly Services,"Troy, MI",Temporary Help
+Old Republic International,"Chicago, IL",Insurance: Property and Casualty (Stock)
+Advanced Micro Devices,"Sunnyvale, CA",Semiconductors and Other Electronic Components
+Netflix,"Los Gatos, CA",Specialty Retailers: Other
+Booz Allen Hamilton Holding,"McLean, VA",Information Technology Services
+Quintiles Transnational Holdings,"Durham, NC",Health Care: Pharmacy and Other Services
+Wynn Resorts,"Las Vegas, NV","Hotels, Casinos, Resorts"
+Jones Lang LaSalle,"Chicago, IL",Real estate
+Regions Financial,"Birmingham, AL",Commercial Banks
+CH2M Hill,"Englewood, CO","Engineering, Construction"
+Western & Southern Financial Group,"Cincinnati, OH","Insurance: Life, Health (Mutual)"
+Lithia Motors,"Medford, OR","Automotive Retailing, Services"
+salesforce.com,"San Francisco, CA",Computer Software
+Alaska Air Group,"Seattle, WA",Airlines
+Host Hotels & Resorts,"Bethesda, MD",Real estate
+Harman International Industries,"Stamford, CT","Electronics, Electrical Equip."
+Amphenol,"Wallingford, CT",Network and Other Communications Equipment
+Realogy Holdings,"Madison, NJ",Real estate
+Essendant,"Deerfield, IL",Wholesalers: Electronics and Office Equipment
+Hanesbrands,"Winston-Salem, NC",Apparel
+Kindred Healthcare,"Louisville, KY",Health Care: Medical Facilities
+ARRIS Group,"Suwanee, GA",Network and Other Communications Equipment
+Insight Enterprises,"Tempe, AZ",Wholesalers: Electronics and Office Equipment
+Alliance Data Systems,"Plano, TX",Financial Data Services
+LifePoint Health,"Brentwood, TN",Health Care: Medical Facilities
+Pioneer Natural Resources,"Irving, TX","Mining, Crude-Oil Production"
+Wyndham Worldwide,"Parsippany, NJ","Hotels, Casinos, Resorts"
+Owens Corning,"Toledo, OH","Building Materials, Glass"
+Alleghany,"New York, NY",Insurance: Property and Casualty (Stock)
+McGraw Hill Financial,"New York, NY",Financial Data Services
+Big Lots,"Columbus, OH",Specialty Retailers: Other
+Northern Tier Energy,"Tempe, AZ",Petroleum Refining
+Hexion,"Columbus, OH",Chemicals
+Markel,"Glen Allen, VA",Insurance: Property and Casualty (Stock)
+Noble Energy,"Houston, TX","Mining, Crude-Oil Production"
+Leidos Holdings,"Reston, VA",Information Technology Services
+Rockwell Collins,"Cedar Rapids, IA",Aerospace and Defense
+Airgas,"Radnor, PA",Wholesalers: Diversified
+Sprague Resources,"Portsmouth, NH",Wholesalers: Diversified
+YRC Worldwide,"Overland Park, KS","Trucking, Truck Leasing"
+Hanover Insurance Group,"Worcester, MA",Insurance: Property and Casualty (Stock)
+Fiserv,"Brookfield, WI",Financial Data Services
+Lorillard,"Greensboro, NC",Tobacco
+American Tire Distributors Holdings,"Huntersville, NC",Wholesalers: Diversified
+ABM Industries,"New York, NY",Diversified Outsourcing Services
+Sonoco Products,"Hartsville, SC","Packaging, Containers"
+Harris,"Melbourne, FL",Network and Other Communications Equipment
+Telephone & Data Systems,"Chicago, IL",Telecommunications
+Wisconsin Energy,"Milwaukee, WI",Utilities: Gas and Electric
+Linn Energy,"Houston, TX","Mining, Crude-Oil Production"
+Raymond James Financial,"St. Petersburg, FL",Securities
+Berry Plastics Group,"Evansville, IN","Packaging, Containers"
+Regency Energy Partners,"Dallas, TX","Oil and Gas Equipment, Services"
+SCANA,"Cayce, SC",Utilities: Gas and Electric
+Cincinnati Financial,"Fairfield, OH",Insurance: Property and Casualty (Stock)
+Atmos Energy,"Dallas, TX",Utilities: Gas and Electric
+Pepco Holdings,"Washington, DC",Utilities: Gas and Electric
+Flowserve,"Irving, TX",Industrial Machinery
+Simon Property Group,"Indianapolis, IN",Real estate
+Constellation Brands,"Victor, NY",Beverages
+Quad/Graphics,"Sussex, WI","Publishing, Printing"
+Burlington Stores,"Burlington, NJ",Specialty Retailers: Apparel
+Neiman Marcus Group,"Dallas, TX",Specialty Retailers: Apparel
+Bemis,"Neenah, WI","Packaging, Containers"
+Coach,"New York, NY",Apparel
+Continental Resources,"Oklahoma City, OK","Mining, Crude-Oil Production"
+Ascena Retail Group,"Mahwah, NJ",Specialty Retailers: Apparel
+Zoetis,"Florham Park, NJ",Pharmaceuticals
+Orbital ATK,"Dulles, VA",Aerospace and Defense
+Frontier Communications,"Stamford, CT",Telecommunications
+Levi Strauss,"San Francisco, CA",Apparel
+SPX,"Charlotte, NC",Industrial Machinery
+CF Industries Holdings,"Deerfield, IL",Chemicals
+Michaels Cos.,"Irving, TX",Specialty Retailers: Other
+M&T Bank Corp.,"Buffalo, NY",Commercial Banks
+Rush Enterprises,"New Braunfels, TX","Automotive Retailing, Services"
+Aleris,"Cleveland, OH",Metals
+Nexeo Solutions Holdings,"The Woodlands, TX",Wholesalers: Diversified
+Keurig Green Mountain,"Waterbury, VT",Beverages
+Superior Energy Services,"Houston, TX","Oil and Gas Equipment, Services"
+Williams-Sonoma,"San Francisco, CA",Specialty Retailers: Other
+Robert Half International,"Menlo Park, CA",Temporary Help
+Nvidia,"Santa Clara, CA",Semiconductors and Other Electronic Components
+First American Financial,"Santa Ana, CA",Insurance: Property and Casualty (Stock)
+Zimmer Holdings,"Warsaw, IN",Medical Products and Equipment
+MDU Resources Group,"Bismarck, ND",Energy
+Juniper Networks,"Sunnyvale, CA",Network and Other Communications Equipment
+Arthur J. Gallagher,"Itasca, IL",Diversified Financials
+Colfax,"Annapolis Junction, MD",Industrial Machinery
+Cliffs Natural Resources,"Cleveland, OH","Mining, Crude-Oil Production"
+Yahoo,"Sunnyvale, CA",Internet Services and Retailing
+MasTec,"Coral Gables, FL","Engineering, Construction"
+Lam Research,"Fremont, CA",Semiconductors and Other Electronic Components
+Axiall,"Atlanta, GA",Chemicals
+Intercontinental Exchange,"Atlanta, GA",Securities
+Cintas,"Cincinnati, OH",Diversified Outsourcing Services
+Coty,"New York, NY",Household and Personal Products
+CA,"Islandia, NY",Computer Software
+Andersons,"Maumee, OH",Food Production
+Valspar,"Minneapolis, MN",Chemicals
+Northern Trust,"Chicago, IL",Commercial Banks
+Intuit,"Mountain View, CA",Computer Software
+Tutor Perini,"Sylmar, CA","Engineering, Construction"
+Polaris Industries,"Medina, MN",Transportation Equipment
+Hospira,"Lake Forest, IL",Pharmaceuticals
+FM Global,"Johnston, RI",Insurance: Property and Casualty (Stock)
+NVR,"Reston, VA",Homebuilders
+Liberty Media,"Englewood, CO",Entertainment
+Energizer Holdings,"St. Louis, MO",Household and Personal Products
+Bloomin' Brands,"Tampa, FL",Food Services
+Avaya,"Santa Clara, CA",Network and Other Communications Equipment
+Westlake Chemical,"Houston, TX",Chemicals
+Hyatt Hotels,"Chicago, IL","Hotels, Casinos, Resorts"
+Mead Johnson Nutrition,"Glenview, IL",Food Consumer Products
+Activision Blizzard,"Santa Monica, CA",Computer Software
+Protective Life,"Birmingham, AL","Insurance: Life, Health (stock)"
+Envision Healthcare Holdings,"Greenwood Village, CO",Health Care: Pharmacy and Other Services
+Fortune Brands Home & Security,"Deerfield, IL","Home Equipment, Furnishings"
+RPM International,"Medina, OH",Chemicals
+VWR,"Radnor, PA",Wholesalers: Diversified
+LPL Financial Holdings,"Boston, MA",Securities
+KeyCorp,"Cleveland, OH",Commercial Banks
+Swift Transportation,"Phoenix, AZ","Trucking, Truck Leasing"
+Alpha Natural Resources,"Bristol, VA","Mining, Crude-Oil Production"
+Hasbro,"Pawtucket, RI","Toys, Sporting Goods"
+Resolute Forest Products,"Catawba, SC",Forest and Paper Products
+Tiffany,"New York, NY",Specialty Retailers: Other
+McCormick,"Sparks, MD",Food Consumer Products
+Graphic Packaging Holding,"Atlanta, GA","Packaging, Containers"
+Greif,"Delaware, OH","Packaging, Containers"
+Allegheny Technologies,"Pittsburgh, PA",Metals
+Securian Financial Group,"St. Paul, MN","Insurance: Life, Health (stock)"
+B/E Aerospace,"Wellington, FL",Aerospace and Defense
+Exelis,"McLean, VA",Aerospace and Defense
+Adobe Systems,"San Jose, CA",Computer Software
+Molson Coors Brewing,"Denver, CO",Beverages
+Roundy's,"Milwaukee, WI",Food and Drug Stores
+CNO Financial Group,"Carmel, IN","Insurance: Life, Health (stock)"
+Adams Resources & Energy,"Houston, TX",Energy
+Belk,"Charlotte, NC",General Merchandisers
+Chipotle Mexican Grill,"Denver, CO",Food Services
+American Tower,"Boston, MA",Telecommunications
+FMC,"Philadelphia, PA",Chemicals
+Hillshire Brands,"Chicago, IL",Food Consumer Products
+AmTrust Financial Services,"New York, NY",Insurance: Property and Casualty (Stock)
+Brunswick,"Lake Forest, IL",Transportation Equipment
+Patterson,"St. Paul, MN",Wholesalers: Health Care
+Southwestern Energy,"Spring, TX","Mining, Crude-Oil Production"
+Ametek,"Berwyn, PA","Scientific,Photographic and Control Equipment"
+T. Rowe Price,"Baltimore, MD",Securities
+Torchmark,"McKinney, TX","Insurance: Life, Health (stock)"
+Darling Ingredients,"Irving, TX",Food Production
+Leggett & Platt,"Carthage, MO","Home Equipment, Furnishings"
+Watsco,"Miami, FL",Wholesalers: Diversified
+Crestwood Equity Partners,"Houston, TX",Energy
+Xylem,"Rye Brook, NY",Industrial Machinery
+Silgan Holdings,"Stamford, CT","Packaging, Containers"
+Toll Brothers,"Horsham, PA",Homebuilders
+Manitowoc,"Manitowoc, WI",Construction and Farm Machinery
+Science Applications International,"McLean, VA",Information Technology Services
+Carlyle Group,"Washington, DC",Securities
+Timken,"North Canton, OH",Industrial Machinery
+Genesis Energy,"Houston, TX",Pipelines
+WPX Energy,"Tulsa, OK","Mining, Crude-Oil Production"
+CareFusion,"San Diego, CA",Medical Products and Equipment
+Pitney Bowes,"Stamford, CT","Computers, Office Equipment"
+Ingles Markets,"Black Mountain, NC",Food and Drug Stores
+PolyOne,"Avon Lake, OH",Chemicals
+Brookdale Senior Living,"Brentwood, TN",Health Care: Medical Facilities
+CommScope Holding,"Hickory, NC",Network and Other Communications Equipment
+Meritor,"Troy, MI",Motor Vehicles and Parts
+Joy Global,"Milwaukee, WI",Construction and Farm Machinery
+Unified Grocers,"Commerce, CA",Wholesalers: Food and Grocery
+Triumph Group,"Berwyn, PA",Aerospace and Defense
+Magellan Health,"Scottsdale, AZ",Health Care: Insurance and Managed Care
+Sally Beauty Holdings,"Denton, TX",Specialty Retailers: Other
+Flowers Foods,"Thomasville, GA",Food Consumer Products
+Abercrombie & Fitch,"New Albany, OH",Specialty Retailers: Apparel
+New Jersey Resources,"Wall, NJ",Energy
+Fastenal,"Winona, MN",Specialty Retailers: Other
+NII Holdings,"Reston, VA",Telecommunications
+Consol Energy,"Canonsburg, PA","Mining, Crude-Oil Production"
+USG,"Chicago, IL","Building Materials, Glass"
+Brink's,"Richmond, VA",Diversified Outsourcing Services
+Helmerich & Payne,"Tulsa, OK","Oil and Gas Equipment, Services"
+Lexmark International,"Lexington, KY",Computer Peripherals
+American Axle & Manufacturing,"Detroit, MI",Motor Vehicles and Parts
+Crown Castle International,"Houston, TX",Telecommunications
+Targa Energy,"Houston, TX",Pipelines
+Oceaneering International,"Houston, TX","Oil and Gas Equipment, Services"
+Cabot,"Boston, MA",Chemicals
+CIT Group,"New York, NY",Commercial Banks
+Cabela's,"Sidney, NE",Specialty Retailers: Other
+Forest Laboratories,"New York, NY",Pharmaceuticals
+DCP Midstream Partners,"Denver, CO",Pipelines
+Ryerson Holding,"Chicago, IL",Metals
+QEP Resources,"Denver, CO","Mining, Crude-Oil Production"
+Thor Industries,"Elkhart, IN",Motor Vehicles and Parts
+HSN,"St. Petersburg, FL",Specialty Retailers: Other
+Graham Holdings,"Arlington, VA",Education
+Electronic Arts,"Redwood City, CA",Computer Software
+Boise Cascade,"Boise, ID",Wholesalers: Diversified
+Hub Group,"Oak Brook, IL",Transportation and Logistics
+CACI International,"Arlington, VA",Information Technology Services
+Roper Technologies,"Sarasota, FL","Scientific,Photographic and Control Equipment"
+Towers Watson,"Arlington, VA",Diversified Outsourcing Services
+Smart & Final Stores,"Commerce, CA",Food and Drug Stores
+Big Heart Pet Brands,"San Francisco, CA",Food Consumer Products
+Fossil Group,"Richardson, TX",Apparel
+Nasdaq OMX Group,"New York, NY",Securities
+Country Financial,"Bloomington, IL",Insurance: Property and Casualty (Mutual)
+Snap-on,"Kenosha, WI",Industrial Machinery
+Pinnacle West Capital,"Phoenix, AZ",Utilities: Gas and Electric
+EchoStar,"Englewood, CO",Network and Other Communications Equipment
+Systemax,"Port Washington, NY",Specialty Retailers: Other
+WhiteWave Foods,"Denver, CO",Food Consumer Products
+CUNA Mutual Group,"Madison, WI","Insurance: Life, Health (stock)"
+Cooper Tire & Rubber,"Findlay, OH",Motor Vehicles and Parts
+ADT,"Boca Raton, FL",Diversified Outsourcing Services
+Cerner,"North Kansas City, MO",Health Care: Pharmacy and Other Services
+Clean Harbors,"Norwell, MA",Waste Management
+First Solar,"Tempe, AZ",Energy
+Lennox International,"Richardson, TX",Industrial Machinery
+Enable Midstream Partners,"Oklahoma City, OK",Pipelines
+Hubbell,"Shelton, CT","Electronics, Electrical Equip."
+Unisys,"Blue Bell, PA",Information Technology Services
+Alliant Energy,"Madison, WI",Utilities: Gas and Electric
+Health Care REIT,"Toledo, OH",Real estate
+Moody's,"New York, NY",Diversified Financials
+C.R. Bard,"Murray Hill, NJ",Medical Products and Equipment
+Urban Outfitters,"Philadelphia, PA",Specialty Retailers: Apparel
+Church & Dwight,"Ewing, NJ",Household and Personal Products
+American Eagle Outfitters,"Pittsburgh, PA",Specialty Retailers: Apparel
+Oaktree Capital Group,"Los Angeles, CA",Securities
+Regal Beloit,"Beloit, WI","Electronics, Electrical Equip."
+Men's Wearhouse,"Houston, TX",Specialty Retailers: Apparel
+Cooper-Standard Holdings,"Novi, MI",Motor Vehicles and Parts
+W.R. Grace,"Columbia, MD",Chemicals
+Ulta Salon Cosmetics & Fragrance,"Bolingbrook, IL",Specialty Retailers: Other
+Hawaiian Electric Industries,"Honolulu, HI",Utilities: Gas and Electric
+SkyWest,"St. George, UT",Airlines
+Green Plains,"Omaha, NE",Energy
+LVB Acquisition,"Warsaw, IN",Medical Products and Equipment
+NBTY,"Ronkonkoma, NY",Pharmaceuticals
+Carlisle,"Charlotte, NC","Building Materials, Glass"
+United Refining,"Warren, PA",Petroleum Refining
+Tesla Motors,"Palo Alto, CA",Motor Vehicles and Parts
+Groupon,"Chicago, IL",Internet Services and Retailing
+Landstar System,"Jacksonville, FL","Trucking, Truck Leasing"
+Patterson-UTI Energy,"Houston, TX","Oil and Gas Equipment, Services"
+EP Energy,"Houston, TX","Mining, Crude-Oil Production"
+ON Semiconductor,"Phoenix, AZ",Semiconductors and Other Electronic Components
+Rent-A-Center,"Plano, TX",Specialty Retailers: Other
+SunGard Data Systems,"Wayne, PA",Financial Data Services
+Citrix Systems,"Fort Lauderdale, FL",Network and Other Communications Equipment
+Amkor Technology,"Tempe, AZ",Semiconductors and Other Electronic Components
+TD Ameritrade Holding,"Omaha, NE",Securities
+Worthington Industries,"Columbus, OH",Metals
+Valmont Industries,"Omaha, NE",Construction and Farm Machinery
+Iron Mountain,"Boston, MA",Diversified Outsourcing Services
+Puget Energy,"Bellevue, WA",Utilities: Gas and Electric
+CME Group,"Chicago, IL",Securities
+IAC/InterActiveCorp,"New York, NY",Internet Services and Retailing
+Par Petroleum,"Houston, TX",Petroleum Refining
+Taylor Morrison Home,"Scottsdale, AZ",Homebuilders
+Chiquita Brands International,"Charlotte, NC",Food Production
+International Flavors & Fragrances,"New York, NY",Chemicals
+Whiting Petroleum,"Denver, CO","Mining, Crude-Oil Production"
+Under Armour,"Baltimore, MD",Apparel
+Ventas,"Chicago, IL",Real estate
+NuStar Energy,"San Antonio, TX",Pipelines
+Select Medical Holdings,"Mechanicsburg, PA",Health Care: Medical Facilities
+Diebold,"North Canton, OH","Computers, Office Equipment"
+American National Insurance,"Galveston, TX","Insurance: Life, Health (stock)"
+Varian Medical Systems,"Palo Alto, CA",Medical Products and Equipment
+Apollo Education Group,"Phoenix, AZ",Education
+Westinghouse Air Brake Technologies,"Wilmerding, PA",Industrial Machinery
+SunPower,"San Jose, CA",Energy
+Warner Music Group,"New York, NY",Entertainment
+American Water Works,"Voorhees, NJ",zMiscellaneous
+H&R Block,"Kansas City, MO",Diversified Financials
+Mercury General,"Los Angeles, CA",Insurance: Property and Casualty (Stock)
+TECO Energy,"Tampa, FL",Utilities: Gas and Electric
+Service Corp. International,"Houston, TX",zMiscellaneous
+Vulcan Materials,"Birmingham, AL","Building Materials, Glass"
+Brown-Forman,"Louisville, KY",Beverages
+Regal Entertainment Group,"Knoxville, TN",Entertainment
+Tempur Sealy International,"Lexington, KY","Home Equipment, Furnishings"
+Steelcase,"Grand Rapids, MI","Home Equipment, Furnishings"
+MWI Veterinary Supply,"Boise, ID",Wholesalers: Diversified
+RadioShack,"Fort Worth, TX",Specialty Retailers: Other
+Sprouts Farmers Market,"Phoenix, AZ",Food and Drug Stores
+Sabre,"Southlake, TX",Internet Services and Retailing
+Martin Marietta Materials,"Raleigh, NC","Building Materials, Glass"
+Huntington Bancshares,"Columbus, OH",Commercial Banks
+Alere,"Waltham, MA",Medical Products and Equipment
+TreeHouse Foods,"Oak Brook, IL",Food Consumer Products
+Arch Coal,"St. Louis, MO","Mining, Crude-Oil Production"
+KLA-Tencor,"Milpitas, CA",Semiconductors and Other Electronic Components
+Crane,"Stamford, CT",Industrial Machinery
+Iasis Healthcare,"Franklin, TN",Health Care: Medical Facilities
+Babcock & Wilcox,"Charlotte, NC",Industrial Machinery
+Dentsply International,"York, PA",Medical Products and Equipment
+Tribune Media,"Chicago, IL",Entertainment
+ScanSource,"Greenville, SC",Wholesalers: Electronics and Office Equipment
+Univision Communications,"New York, NY",Entertainment
+Brinker International,"Dallas, TX",Food Services
+Exterran Holdings,"Houston, TX","Oil and Gas Equipment, Services"
+Carter's,"Atlanta, GA",Apparel
+Analog Devices,"Norwood, MA",Semiconductors and Other Electronic Components
+Genesco,"Nashville, TN",Specialty Retailers: Apparel
+Scotts Miracle-Gro,"Marysville, OH",Chemicals
+Convergys,"Cincinnati, OH",Diversified Outsourcing Services
+Exide Technologies,"Milton, GA",Motor Vehicles and Parts
+WABCO Holdings,"Rochester Hills, MI",Motor Vehicles and Parts
+Kennametal,"Latrobe, PA",Industrial Machinery
+Amerco,"Reno, NV","Trucking, Truck Leasing"
+Bon-Ton Stores,"York, PA",General Merchandisers
+Team Health Holdings,"Knoxville, TN",Health Care: Pharmacy and Other Services
+Regeneron Pharmaceuticals,"Tarrytown, NY",Pharmaceuticals
+Springleaf Holdings,"Evansville, IN",Diversified Financials
+Lincoln Electric Holdings,"Cleveland, OH",Industrial Machinery
+Dresser-Rand Group,"Houston, TX",Industrial Machinery
+West,"Omaha, NE",Diversified Outsourcing Services
+Benchmark Electronics,"Angleton, TX",Semiconductors and Other Electronic Components
+Pall,"Port Washington, NY",Industrial Machinery
+Old Dominion Freight Line,"Thomasville, NC","Trucking, Truck Leasing"
+MSC Industrial Direct,"Melville, NY",Wholesalers: Diversified
+Sentry Insurance Group,"Stevens Point, WI",Insurance: Property and Casualty (Mutual)
+Sigma-Aldrich,"St. Louis, MO",Chemicals
+WGL Holdings,"Washington, DC",Energy
+Weis Markets,"Sunbury, PA",Food and Drug Stores
+Sanderson Farms,"Laurel, MS",Food Production
+StanCorp Financial Group,"Portland, OR","Insurance: Life, Health (stock)"
+Hyster-Yale Materials Handling,"Cleveland, OH",Industrial Machinery
+Wolverine World Wide,"Rockford, MI",Apparel
+DST Systems,"Kansas City, MO",Financial Data Services
+Legg Mason,"Baltimore, MD",Securities
+Teradata,"Dayton, OH",Computer Software
+Aaron's,"Atlanta, GA",Specialty Retailers: Other
+Antero Resources,"Denver, CO","Mining, Crude-Oil Production"
+Metaldyne Performance Group,"Plymouth, MI",Motor Vehicles and Parts
+Range Resources,"Fort Worth, TX","Mining, Crude-Oil Production"
+Vornado Realty Trust,"New York, NY",Real estate
+Boyd Gaming,"Las Vegas, NV","Hotels, Casinos, Resorts"
+Covance,"Princeton, NJ",Health Care: Pharmacy and Other Services
+Armstrong World Industries,"Lancaster, PA","Building Materials, Glass"
+Cracker Barrel Old Country Store,"Lebanon, TN",Food Services
+Chico's FAS,"Fort Myers, FL",Specialty Retailers: Apparel
+Scripps Networks Interactive,"Knoxville, TN",Entertainment
+Universal Forest Products,"Grand Rapids, MI",Forest and Paper Products
+Concho Resources,"Midland, TX","Mining, Crude-Oil Production"
+ITT,"White Plains, NY",Industrial Machinery
+HCC Insurance Holdings,"Houston, TX",Insurance: Property and Casualty (Stock)
+Moog,"East Aurora, NY",Aerospace and Defense
+IMS Health Holdings,"Danbury, CT",Health Care: Pharmacy and Other Services
+Cinemark Holdings,"Plano, TX",Entertainment
+Comerica,"Dallas, TX",Commercial Banks
+Equity Residential,"Chicago, IL",Real estate
+Ryland Group,"Westlake Village, CA",Homebuilders
+GNC Holdings,"Pittsburgh, PA",Food and Drug Stores
+ArcBest,"Fort Smith, AR","Trucking, Truck Leasing"
+Vectren,"Evansville, IN",Utilities: Gas and Electric
+Curtiss-Wright,"Charlotte, NC",Aerospace and Defense
+Tupperware Brands,"Orlando, FL",Household and Personal Products
+Westar Energy,"Topeka, KS",Utilities: Gas and Electric
+Albemarle,"Baton Rouge, LA",Chemicals
+AptarGroup,"Crystal Lake, IL","Packaging, Containers"
+Pinnacle Foods,"Parsippany, NJ",Food Consumer Products
+Penn National Gaming,"Wyomissing, PA","Hotels, Casinos, Resorts"
+J.Crew Group,"New York, NY",Specialty Retailers: Apparel
+Vantiv,"Symmes Township, OH",Financial Data Services
+Kansas City Southern,"Kansas City, MO",Railroads
+Caleres,"St. Louis, MO",Specialty Retailers: Apparel
+Nu Skin Enterprises,"Provo, UT",Household and Personal Products
+Great Plains Energy,"Kansas City, MO",Utilities: Gas and Electric
+Kirby,"Houston, TX",zMiscellaneous
+General Growth Properties,"Chicago, IL",Real estate
+Broadridge Financial Solutions,"Lake Success, NY",Financial Data Services
+Stericycle,"Lake Forest, IL",Waste Management
+Global Payments,"Atlanta, GA",Financial Data Services
+Nortek,"Providence, RI",Industrial Machinery
+Schnitzer Steel Industries,"Portland, OR",Metals
+Universal,"Richmond, VA",Tobacco
+ANN,"New York, NY",Specialty Retailers: Apparel
+Hologic,"Bedford, MA",Medical Products and Equipment
+Panera Bread,"St. Louis, MO",Food Services
+AOL,"New York, NY",Internet Services and Retailing
+SM Energy,"Denver, CO","Mining, Crude-Oil Production"
+Paychex,"Rochester, NY",Diversified Outsourcing Services
+PriceSmart,"San Diego, CA",Specialty Retailers: Other
+Autodesk,"San Rafael, CA",Computer Software
+Affiliated Managers Group,"Prides Crossing, MA",Securities
+Tops Holding,"Williamsville, NY",Food and Drug Stores
+Dynegy,"Houston, TX",Energy
+DSW,"Columbus, OH",Specialty Retailers: Apparel
+Vishay Intertechnology,"Malvern, PA",Semiconductors and Other Electronic Components
+Mettler-Toledo International,"Columbus, OH","Scientific,Photographic and Control Equipment"
+SunEdison,"Maryland Heights, MO",Semiconductors and Other Electronic Components
+Tetra Tech,"Pasadena, CA","Engineering, Construction"
+Momentive Performance Materials,"Waterford, NY",Chemicals
+EnerSys,"Reading, PA","Electronics, Electrical Equip."
+Donaldson,"Minneapolis, MN",Industrial Machinery
+EQT,"Pittsburgh, PA",Energy
+Monster Beverage,"Corona, CA",Beverages
+PC Connection,"Merrimack, NH",Specialty Retailers: Other
+Total System Services,"Columbus, GA",Financial Data Services
+ServiceMaster Global Holdings,"Memphis, TN",Diversified Outsourcing Services
+Medical Mutual of Ohio,"Cleveland, OH","Insurance: Life, Health (Mutual)"
+Applied Industrial Technologies,"Cleveland, OH",Wholesalers: Diversified
+Maxim Integrated Products,"San Jose, CA",Semiconductors and Other Electronic Components
+OGE Energy,"Oklahoma City, OK",Utilities: Gas and Electric
+A. Schulman,"Fairlawn, OH",Chemicals
+Equinix,"Redwood City, CA",Telecommunications
+Mednax,"Sunrise, FL",Health Care: Pharmacy and Other Services
+Equifax,"Atlanta, GA",Financial Data Services
+Standard Pacific,"Irvine, CA",Homebuilders
+Denbury Resources,"Plano, TX","Mining, Crude-Oil Production"
+Cimarex Energy,"Denver, CO","Mining, Crude-Oil Production"
+Mutual of America Life Insurance,"New York, NY","Insurance: Life, Health (Mutual)"
+Guess,"Los Angeles, CA",Apparel
+Post Holdings,"St. Louis, MO",Food Consumer Products
+HealthSouth,"Birmingham, AL",Health Care: Medical Facilities
+Ferrellgas Partners,"Overland Park, KS",Energy
+KB Home,"Los Angeles, CA",Homebuilders
+Boston Properties,"Boston, MA",Real estate
+Trimble Navigation,"Sunnyvale, CA","Scientific,Photographic and Control Equipment"
+Teledyne Technologies,"Thousand Oaks, CA","Scientific,Photographic and Control Equipment"
+Acuity Brands,"Atlanta, GA","Electronics, Electrical Equip."
+Skechers U.S.A.,"Manhattan Beach, CA",Apparel
+Xilinx,"San Jose, CA",Semiconductors and Other Electronic Components
+Plexus,"Neenah, WI",Semiconductors and Other Electronic Components
+Newfield Exploration,"The Woodlands, TX","Mining, Crude-Oil Production"
+TransDigm Group,"Cleveland, OH",Aerospace and Defense
+Kar Auction Services,"Carmel, IN",Wholesalers: Diversified
+Mueller Industries,"Memphis, TN",Industrial Machinery
+Zions Bancorp.,"Salt Lake City, UT",Commercial Banks
+Insperity,"Kingwood, TX",Diversified Outsourcing Services
+XPO Logistics,"Greenwich, CT",Transportation and Logistics
+Sears Hometown & Outlet Stores,"Hoffman Estates, IL",Specialty Retailers: Other
+A.O. Smith,"Milwaukee, WI","Electronics, Electrical Equip."
+Alliance One International,"Morrisville, NC",Tobacco
+Take-Two Interactive Software,"New York, NY",Computer Software
+hhgregg,"Indianapolis, IN",Specialty Retailers: Other
+RPC,"Atlanta, GA","Oil and Gas Equipment, Services"
+NewMarket,"Richmond, VA",Chemicals
+Beacon Roofing Supply,"Herndon, VA",Wholesalers: Diversified
+Edwards Lifesciences,"Irvine, CA",Medical Products and Equipment
+Triple-S Management,"San Juan, PR",Health Care: Insurance and Managed Care
+Hawaiian Holdings,"Honolulu, HI",Airlines
+Heartland Payment Systems,"Princeton, NJ",Financial Data Services
+Belden,"St. Louis, MO","Electronics, Electrical Equip."
+Magellan Midstream Partners,"Tulsa, OK",Pipelines
+Outerwall,"Bellevue, WA",Specialty Retailers: Other
+KapStone Paper & Packaging,"Northbrook, IL","Packaging, Containers"
+Alliance Holdings,"Tulsa, OK","Mining, Crude-Oil Production"
+Skyworks Solutions,"Woburn, MA",Semiconductors and Other Electronic Components
+Ciena,"Hanover, MD",Network and Other Communications Equipment
+Granite Construction,"Watsonville, CA","Engineering, Construction"
+Education Management,"Pittsburgh, PA",Education
+Party City Holdings,"Elmsford, NY",Specialty Retailers: Other
+HCP,"Irvine, CA",Real estate
+Parexel International,"Waltham, MA",Health Care: Pharmacy and Other Services
+Delta Tucker Holdings,"McLean, VA",Aerospace and Defense
+Pinnacle Entertainment,"Las Vegas, NV","Hotels, Casinos, Resorts"
+Stifel Financial,"St. Louis, MO",Securities
+Pool,"Covington, LA",Wholesalers: Diversified
+Olin,"Clayton, MO",Chemicals
+Knights of Columbus,"New Haven, CT","Insurance: Life, Health (Mutual)"
+PerkinElmer,"Waltham, MA","Scientific,Photographic and Control Equipment"
+Alexion Pharmaceuticals,"Cheshire, CT",Pharmaceuticals
+IHS,"Englewood, CO",Financial Data Services
+Oil States International,"Houston, TX","Oil and Gas Equipment, Services"
+HNI,"Muscatine, IA","Home Equipment, Furnishings"
+LinkedIn,"Mountain View, CA",Internet Services and Retailing
+Diplomat Pharmacy,"Flint, MI",Food and Drug Stores
+Brocade Communications Systems,"San Jose, CA",Network and Other Communications Equipment
+Greenbrier Cos.,"Lake Oswego, OR",Transportation Equipment
+AMC Networks,"New York, NY",Entertainment
+Kemper,"Chicago, IL",Insurance: Property and Casualty (Stock)
+Ocwen Financial,"Atlanta, GA",Diversified Financials
+Public Storage,"Glendale, CA",zMiscellaneous
+TriNet Group,"San Leandro, CA",Diversified Outsourcing Services
+Chemtura,"Philadelphia, PA",Chemicals
+Symetra Financial,"Bellevue, WA","Insurance: Life, Health (stock)"
+Tower International,"Livonia, MI",Motor Vehicles and Parts
+Meritage Homes,"Scottsdale, AZ",Homebuilders
+MarkWest Energy Partners,"Denver, CO",Pipelines
+Bio-Rad Laboratories,"Hercules, CA",Medical Products and Equipment
+TrueBlue,"Tacoma, WA",Temporary Help
+Cabot Oil & Gas,"Houston, TX","Mining, Crude-Oil Production"
+Carpenter Technology,"Wyomissing, PA",Metals
+Toro,"Bloomington, MN",Construction and Farm Machinery
+American Equity Investment Life Holding,"West Des Moines, IA","Insurance: Life, Health (stock)"
+Eastman Kodak,"Rochester, NY","Scientific,Photographic and Control Equipment"
+Hain Celestial Group,"Lake Success, NY",Food Consumer Products
+Nationstar Mortgage Holdings,"Coppell, TX",Diversified Financials
+IDEX,"Lake Forest, IL",Industrial Machinery
+Popular,"Hato Rey, PR",Commercial Banks
+Werner Enterprises,"Omaha, NE","Trucking, Truck Leasing"
+Esterline Technologies,"Bellevue, WA",Aerospace and Defense
+Intuitive Surgical,"Sunnyvale, CA",Medical Products and Equipment
+Allison Transmission Holdings,"Indianaoplis, IN",Motor Vehicles and Parts
+SemGroup,"Tulsa, OK",Pipelines
+Southwest Gas,"Las Vegas, NV",Utilities: Gas and Electric
+G-III Apparel Group,"New York, NY",Apparel
+National Fuel Gas,"Williamsville, NY",Utilities: Gas and Electric
+H.B. Fuller,"St. Paul, MN",Chemicals
+Penn Mutual Life Insurance,"Horsham, PA","Insurance: Life, Health (stock)"
+RCS Capital,"New York, NY",Securities
+Columbia Sportswear,"Portland, OR",Apparel
+Amica Mutual Insurance,"Lincoln, RI",Insurance: Property and Casualty (Mutual)
+Primoris Services,"Dallas, TX","Engineering, Construction"
+Energen,"Birmingham, AL","Mining, Crude-Oil Production"
+Rexnord,"Milwaukee, WI",Industrial Machinery
+Seventy Seven Energy,"Oklahoma City, OK","Oil and Gas Equipment, Services"
+Waste Connections,"The Woodlands, TX",Waste Management
+"Pep Boys-Manny, Moe & Jack","Philadelphia, PA",Specialty Retailers: Other
+Harsco,"Camp Hill, PA",Metals
+Hovnanian Enterprises,"Red Bank, NJ",Homebuilders
+Willbros Group,"Houston, TX","Oil and Gas Equipment, Services"
+Wendy's,"Dublin, OH",Food Services
+International Game Technology,"Las Vegas, NV",Industrial Machinery
+Synopsys,"Mountain View, CA",Computer Software
+Universal American,"White Plains, NY",Health Care: Insurance and Managed Care
+AAR,"Wood Dale, IL",Aerospace and Defense
+Selective Insurance Group,"Branchville, NJ",Insurance: Property and Casualty (Stock)
+Gartner,"Stamford, CT",Information Technology Services
+E*Trade Financial,"New York, NY",Securities
+TikTok,,
+Twitter,,
+Netflix,,
+Alphabet,,
+PayPal,,
+Uber,,
+Adobe,,
+Spotify,,
+Yandex,,
+Yahoo,,
+Epic Games,,
+Activision,,
+Rockstar,,
+Airbnb,,
+Stripe,,
+Zillow,,
+GoDaddy,,
+Trivago,,
+Wish,,
+Lyft,,
+Etsy,,
+Groupon,,
+SpaceX,,
+Tesla,,
+Chevrolet,,
+Ford,,
+GMC,,
+Hyundai,,
+KIA,,
+Toyota,,
+Honda,,
+Mazda,,
+Polestar,,
+Dodge,,
+Snapchat,,
+Instagram,,
+X,,
+CNN,,
+FOX,,
+BBC,,
+Facebook,,
+YouTube,,
+Alibaba,,
+Meta,,
+Tencent,,
+Warner Bros.,,
+OpenAI,,
