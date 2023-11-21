@@ -22,14 +22,14 @@ A pandas dataframe is the final output, containing the following columns:
 
 ## Libraries
 ```
-BeautifulSoup
-requests
-Pandas
-NumPy
-datetime
-Selenium
-time
-openAI
+beautifulsoup4==4.11.1
+nltk==3.8.1
+numpy==1.23.2
+openai==1.3.4
+pandas==1.4.3
+Requests==2.31.0
+selenium==4.15.2
+webdriver_manager==3.8.6
 ```
 Can also be found in requirements.txt
 
